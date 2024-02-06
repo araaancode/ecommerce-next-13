@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../Button/Button";
 
 export default async function Products({ promise }) {
   const products = await promise;

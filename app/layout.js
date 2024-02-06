@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <nav>
           <ul>
             <li>
-              <a href="/">خانه</a>
+              <a className="active" href="/">خانه</a>
             </li>
 
             <li>
